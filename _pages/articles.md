@@ -10,7 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-(*) denotes equal contribution, (**) denotes equal advising
 
 <span style="color:red"> **(\*) denotes equal contribution, (\**) denotes equal advising.** </span> <br/>
 
