@@ -15,7 +15,7 @@ Welcome to my homepage! I'm Vu Huyen Trang Pham (Huyen Trang). At present, I am 
 
 Email: pvhtrang0811@gmail.com
 ## Research Interests
-My current research focuses on advancing the mathematical principles that underpin the effectiveness of state-of-the-art machine learning models, particularly Mixture of Experts (MoE). To achieve this, I aim to deepen the theoretical understanding and foundational mathematics of MoE architectures, leveraging this knowledge to inspire and drive innovations in their applications to areas such as Continual Learning, Visual State Space Models, and Large Language Models (LLMs). Additionally, I strive to develop faster and more efficient OT distances that are both computationally efficient and topology-preserving, enabling broader applications across diverse machine learning challenges.
+My current research focuses on advancing the mathematical principles that underpin the effectiveness of state-of-the-art machine learning models, particularly Mixture of Experts. To achieve this, I aim to deepen the theoretical understanding and foundational mathematics of MoE architectures and leverage this knowledge to inspire and drive innovations in their applications to areas such as Continual Learning, Visual State Space Models and Large Language Models. Additionally, I strive to develop faster and more efficient optimal transport distances that preserve topological properties while significantly reducing computational costs, which opens up their broader application to a wide range of machine learning challenges that were previously constrained by inefficiency.
 
 <span style="color:red"> **(\*) denotes equal contribution, (\**) denotes equal advising.** </span> <br/>
 
