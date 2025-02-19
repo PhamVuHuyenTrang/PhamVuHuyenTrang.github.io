@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
    
-Welcome to my homepage! I'm Vu Huyen Trang Pham (Huyen Trang). I am a research resident at [VinAI Research](https://www.vinai.io/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) and Professor [Tan Nguyen](https://tanmnguyen89.github.io/). Before that, I graduated from [Hanoi University of Science and Technology](https://hust.edu.vn/) with a Bachelor's degree in Data Science and Artificial Intelligence.  During my undergraduate studies, I was also a research student at [Data Science Lab](http://ds.soict.hust.edu.vn/), conducting research under the guidance of Professor [Khoat Than](https://users.soict.hust.edu.vn/khoattq/) and Dr. [Linh Ngo](https://users.soict.hust.edu.vn/linhnv/).
+Welcome to my homepage! I'm Vu Huyen Trang Pham (Huyen Trang). I am a research resident at [VinAI Research](https://www.vinai.io/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) and Professor [Tan Nguyen](https://tanmnguyen89.github.io/). Before that, I graduated from [Hanoi University of Science and Technology](https://hust.edu.vn/) with a Bachelor's degree in Data Science and Artificial Intelligence.  During my undergraduate studies, I was also a research student at [Data Science Lab](http://ds.soict.hust.edu.vn/), conducting research under the guidance of Professor [Khoat Than](https://users.soict.hust.edu.vn/khoattq/) and Dr [Linh Ngo](https://users.soict.hust.edu.vn/linhnv/).
 
 Email: pvhtrang0811@gmail.com
 ## Research Interests 
