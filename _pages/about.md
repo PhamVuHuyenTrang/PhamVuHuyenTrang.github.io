@@ -37,5 +37,5 @@ Hoang V. Tran\*, __Trang Pham\*__, Tho Tran, Tam Le\*\*, Tan Nguyen\** <br/>
 - Conference Reviewer: ICLR (2025) and AISTATS (2025).
 
 ## Teaching Experience
-- Teaching assistant, Object-oriented programming (IT3100E), HUST.
-- Teaching assistant, Introduction to Data Science (IT4142E), HUST.
+- Teaching Assistant, Object-oriented programming (IT3100E), HUST.
+- Teaching Assistant, Introduction to Data Science (IT4142E), HUST.
