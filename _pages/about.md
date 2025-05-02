@@ -20,7 +20,7 @@ My current research focuses on advancing the mathematical principles that underp
 <span style="color:red"> **(\*) denotes equal contribution, (\**) denotes equal advising.** </span> <br/>
 
 ## Selected Publications
-**[P.1]** [Tree-Sliced Wasserstein Distance: A Geometric Perspective](). Proceedings of the ICLR, 2025. <br/>
+**[P.1]** [Tree-Sliced Wasserstein Distance: A Geometric Perspective](). Proceedings of the ICML, 2025. <br/>
 Hoang V. Tran\*, __Trang Pham\*__,Tho Tran, Khoi N.M. Nguyen, Thanh T. Chu, Tam Le\*\*, Tan Nguyen\** <br/>
 **[P.2]** [Tree-Sliced Wasserstein Distance with Nonlinear Projection](). Proceedings of the ICML, 2025. <br/>
 Thanh Tran\*, Hoang V. Tran\*,Thanh T. Chu, __Trang Pham__, Laurent Ghaoui\*\*, Tam Le\*\*, Tan Nguyen\** <br/>
