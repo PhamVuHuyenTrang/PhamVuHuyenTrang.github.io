@@ -26,7 +26,3 @@ Hoang V. Tran\*, Khoi N.M. Nguyen\*, __Trang Pham__, Thanh T. Chu, Tam Le\*\*, T
 Hoang V. Tran\*, Thanh T. Chu\*, Khoi N.M. Nguyen, __Trang Pham__, Tam Le\*\*, Tan Nguyen\** <br/>
 **[P.6]** [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/abs/2405.14124). Advances in NeurIPS, 2024. <br/>
 Minh Le, An Nguyen\*, Huy Nguyen\*, Trang Nguyen\*, __Trang Pham\*__, Linh Van Ngo, Nhat Ho<br/>
-
-## Preprints
-**[A.1]** [Tree-Sliced Wasserstein Distance on a System of Lines](https://arxiv.org/abs/2406.13725). Under review. <br/>
-Hoang V. Tran\*, __Trang Pham\*__, Tho Tran, Tam Le\*\*, Tan Nguyen\** <br/>
