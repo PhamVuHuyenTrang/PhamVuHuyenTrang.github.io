@@ -21,7 +21,7 @@ My current research focuses on advancing the mathematical principles that underp
 
 ## Selected Publications
 **[P.1]** [Tree-Sliced Wasserstein Distance: A Geometric Perspective](). Proceedings of the ICLR, 2025. <br/>
-Hoang V. Tran\*, Trang Pham\*,Tho Tran, Khoi N.M. Nguyen, Thanh T. Chu, Tam Le\*\*, Tan Nguyen\** <br/>
+Hoang V. Tran\*, __Trang Pham\*__,Tho Tran, Khoi N.M. Nguyen, Thanh T. Chu, Tam Le\*\*, Tan Nguyen\** <br/>
 **[P.2]** [Tree-Sliced Wasserstein Distance with Nonlinear Projection](). Proceedings of the ICML, 2025. <br/>
 Thanh Tran\*, Hoang V. Tran\*,Thanh T. Chu, __Trang Pham__, Laurent Ghaoui\*\*, Tam Le\*\*, Tan Nguyen\** <br/>
 **[P.3]** [Statistical Advantages of Perturbing Cosine Router in Mixture of Experts](https://arxiv.org/abs/2405.14131). Proceedings of the ICLR, 2025. <br/>
