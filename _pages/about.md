@@ -38,4 +38,5 @@ Minh Le, An Nguyen\*, Huy Nguyen\*, Trang Nguyen\*, __Trang Pham\*__, Linh Van N
 - Conference Reviewer: ICLR (2025-2026), AISTATS (2025-2026) and ICML (2025).
 
 ## Teaching Experience
-- Undergraduate Teaching Assistant: Object-oriented programming (IT3100E) and Introduction to Data Science (IT4142E).
+- Undergraduate Teaching Assistant: Object-oriented programming and Introduction to Data Science (Hanoi University of Science and Technology).
+- Graduate Teaching Assistant: Elements of Statistics (University of Texas at Austin).
