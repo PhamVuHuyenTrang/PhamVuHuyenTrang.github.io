@@ -27,3 +27,17 @@ Hoang V. Tran\*, Thanh T. Chu\*, Khoi N.M. Nguyen, __Trang Pham__, Tam Le\*\*, T
 **[P.6]** [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/abs/2405.14124). Advances in NeurIPS, 2024. <br/>
 Minh Le, An Nguyen\*, Huy Nguyen\*, Trang Nguyen\*, __Trang Pham\*__, Linh Van Ngo, Nhat Ho<br/>
 
+## Preprints
+
+**[R.1]** [The Statistical Geometry of Latent Recovery in Hidden Markov Models](https://arxiv.org/abs/2611.00680). Under review, 2026. <br/>
+__Trang Pham\*__, Dung Le\*, Alessandro Rinaldo, Nhat Ho <br/>
+
+**[R.2]** [Weak Limits of Parameter Estimation in Strongly Identifiable Mixture Models](https://arxiv.org/abs/2610.25857). Under review, 2026. <br/>
+Dung Le, __Trang Pham__, Alessandro Rinaldo, Nhat Ho <br/>
+
+**[R.3]** [Characterizing Heterogeneous Rates in Finite Mixture Estimation via Partial Optimal Transport](https://arxiv.org/abs/2609.16622). Under review, 2026. <br/>
+Dung Le\*, Huy Nguyen\*, __Trang Pham__, Alessandro Rinaldo, Nhat Ho <br/>
+
+**[R.4]** [Improving Minimax Estimation Rates for Contaminated Mixture of Multinomial Logistic Experts via Expert Heterogeneity](https://arxiv.org/abs/2602.00939). Under review, 2026. <br/>
+Fanqi Yan\*, Dung Le\*, __Trang Pham__, Huy Nguyen, Nhat Ho <br/>
+
