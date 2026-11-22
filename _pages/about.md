@@ -16,9 +16,11 @@ Email: pvhtrang0811@gmail.com
 
 ## Research Interests
 
-My research focuses on the statistical foundations of machine learning, particularly how model structure and data characteristics influence parameter estimation and statistical inference. I study latent variable models to understand their identifiability, convergence behavior, and asymptotic properties. My ongoing work also examines when and why test-time training improves predictive performance under distribution shifts.
+## Research Interests
 
-Beyond statistical theory, I have worked on developing machine learning methods in Mixture-of-Experts, optimal transport, and continual learning. I also conduct research in healthcare AI, particularly multimodal representation learning and survival prediction using longitudinal clinical data.
+My research focuses on the statistical foundations of machine learning, particularly understanding how model structure and data characteristics affect parameter estimation and statistical inference. Much of my work concerns latent variable models, where I study the roles of identifiability and model geometry in determining estimation behavior. I am also investigating test-time training to understand when and why adapting models to new data improves predictive performance under distribution shifts.
+
+Beyond my theoretical research, I have developed machine learning methods for Mixture-of-Experts, optimal transport, and continual learning. My work also extends to healthcare AI, where I explore multimodal representation learning for survival prediction from longitudinal clinical data with missing modalities.
 
 <span style="color:red"> **(\*) denotes equal contribution, (\**) denotes equal advising.** </span> <br/>
 
